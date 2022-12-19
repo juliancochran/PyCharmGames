@@ -1,0 +1,4 @@
+XYZ	14
+JPC	17
+ASS	21
+JPC	25
